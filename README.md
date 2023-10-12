@@ -37,7 +37,8 @@
 
 <h3 align="center">📌 Velog</h3>
 <div align="center">
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kelly6226)](https://velog.io/@kelly6226)
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kelly6226)](https://velog.io/@kelly6226) 
 
 </div>
+
