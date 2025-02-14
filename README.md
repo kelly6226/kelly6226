@@ -5,8 +5,11 @@
 
 <h3 align="center">👩‍💻 My Company Github Contributions 👩‍💻</h3>
 
+🏢 Work account: [@jisooBigc](https://github.com/jisooBigc)
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/jisooBigc)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jisooBigc&theme=default)
+
 
 </div>
 
