@@ -22,7 +22,7 @@
 - 2026.02 · **[SIMVEX](https://github.com/team-blaybus-runtime/team-blaybus-runtime_front)** — 3D 물리 시뮬레이션 기반 학습 웹 (해커톤)
 - 2025.06 ~ 2025.11 · **[관광데이터 공모전](https://github.com/team-gildongmu/frontend)** — 공공데이터 + 대화형 UI 기반 힐링 여행 추천 AI 모바일 웹
 - 2023.09 ~ 2024.08 · **[BeatMate](https://github.com/AppDoc-project)** — 화상 악기/보컬 레슨 앱 (React Native, Agora)
-- 2024.01.12 ~ 2024.01.13 · **[Infinite](https://github.com/GDSC-snowflowerthon/infinite-team08-web-67jk)** — 시각장애인을 위한 모바일 웹 (해커톤)
+- 2024.01.12 ~ 2024.01.13 · **[Infinite](https://github.com/GDSC-snowflowerthon/infinite-team08-web)** — 시각장애인을 위한 모바일 웹 (해커톤)
 - 2023.07 ~ 2023.12 · **[함께시장](https://github.com/Hongik-Likelion/together-market-app)** — 전통시장 커뮤니티 앱 (React Native)
 - 2023.08.25 ~ 2023.08.26 · **[SYNTH](https://github.com/SinchonTeam1/Front)** — 신촌 대학생 스터디 매칭 플랫폼 (해커톤, 모바일 웹)
 - 2023.03 ~ 2023.12 · **[멋쟁이사자처럼(홍익대학교)](https://github.com/Hongik-Likelion)** · Frontend
