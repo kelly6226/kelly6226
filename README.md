@@ -26,3 +26,7 @@
 - 2023.07 ~ 2023.12 · **[함께시장](https://github.com/Hongik-Likelion/together-market-app)** — 전통시장 커뮤니티 앱 (React Native)
 - 2023.08.25 ~ 2023.08.26 · **[SYNTH](https://github.com/SinchonTeam1/Front)** — 신촌 대학생 스터디 매칭 플랫폼 (해커톤, 모바일 웹)
 - 2023.03 ~ 2023.12 · **[멋쟁이사자처럼(홍익대학교)](https://github.com/Hongik-Likelion)** · Frontend
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Kelly6226?pet-id=831790585177157606" width="1000" height="120"/>
+</a>
