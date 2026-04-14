@@ -28,5 +28,5 @@
 - 2023.03 ~ 2023.12 · **[멋쟁이사자처럼(홍익대학교)](https://github.com/Hongik-Likelion)** · Frontend
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Kelly6226?pet-id=831790585177157606" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/Kelly6226?pet-id=831790585177157606" width="1000" height="150"/>
 </a>
