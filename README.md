@@ -19,6 +19,7 @@
 
 #### 📂 Experience
 
+- 2026.11 · [야근 말고 모각코](https://github.com/kelly6226/3D_CodingPlace) — 아바타로 모여 각자 코딩하는 실시간 멀티플레이 3D 웹 (Three.js, Supabase Realtime, 앱인토스 출시)
 - 2026.08 ~ 2026.09 · **[Homm, 살 수 있어?](https://github.com/Get-MyHome/get-myhome-frontend)** — 개인 청약 자금 완주 가능성 진단 모바일 웹 (2026 금융 AI Challenge 공모전)
 - 2026.02 · **[SIMVEX](https://github.com/team-blaybus-runtime/team-blaybus-runtime_front)** — 3D 물리 시뮬레이션 기반 학습 웹 (해커톤)
 - 2025.06 ~ 2025.11 · **[관광데이터 공모전](https://github.com/team-gildongmu/frontend)** — 공공데이터 + 대화형 UI 기반 힐링 여행 추천 AI 모바일 웹
